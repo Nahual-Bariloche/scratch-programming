@@ -1,4 +1,4 @@
 scratch-programming
 ===================
 
-Ejercicios de introducción a la programación usando scratch
+Introducción a conceptos básicos de programación (control del flujo y variables) usando ejercicios de (scratch)[http://scratch.mit.edu]
