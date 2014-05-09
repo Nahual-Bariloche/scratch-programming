@@ -9,15 +9,15 @@ El editor de scratch está en http://scratch.mit.edu/projects/editor/
 
 Se pueden guardar los programas creados desde: Archivo => Descargar a tu computadora
 
-Se pueden subir los programas guardados desde: Archivo => Subir de tu computdora
+Se pueden subir los programas guardados desde: Archivo => Subir de tu computadora
 
 Los bloques son el equivalente a las instrucciones de código y se encuentran en la parte central de la pantalla, y están agrupados por su tipo (ej: Movimiento, Eventos, Apariencia, etc. ). Para poder armar un programa debemos arrastrar los bloques hacia la parte izquierda de la pantalla.
 
-Los bloques tienen secciones de "encastre", si un bloque puede ir a continuacíón o "adentro" de otro, entoces sus formas coincidirán, de forma similar a un rompecabezas.
+Los bloques tienen secciones de "encastre", si un bloque puede ir a continuación o "adentro" de otro, entonces sus formas coinciden, de forma similar a un rompecabezas.
 
 Para poder correr (ejecutar) el programa se debe usar alguno de los bloques de la solapa "Eventos", por ejemplo podemos utilizar el bloque "al presionar la tecla espacio" y correr nuestro programas presionando dicha tecla.
 
-En algunos casos es necesario usar el bloque "Esperar (1) segundos" de la solapa control, o los bloques que se realizan por un determinado tiempo, porque que de lo contrario la acción se realiza tan rápidamente que no se puede visualizar.
+En algunos casos es necesario usar el bloque "Esperar (1) segundos" de la solapa control, o los bloques que se realizan por un determinado tiempo, de lo contrario la acción se realiza tan rápidamente que no se puede visualizar.
 
 
 
@@ -84,7 +84,7 @@ Solución: "jugar a la escondida.sb2"
 Hacer que el personaje piense un número del 1 al 10 y nos pida a nosotros que lo adivinemos y nos diga si acertamos o no, y en el caso de que no adivinemos que nos diga cual es el número en el que estaba pensando.
 
 
-Tip: Usar el bloque "numero al azar entre (1) y (10)" de la solapa operadores para generar un número aleatorio.
+Tip: Usar el bloque "número al azar entre (1) y (10)" de la solapa operadores para generar un número aleatorio.
 
 
 Conceptos introducidos: variable, número aleatorio, input del usuario
@@ -99,6 +99,6 @@ Solución: "adivinar numero.sb2"
 Hacer que el personaje de scratch se mueva aleatoriamente. Al poner el mouse sobre el mismo que diga "Ayyyy"
 
 
-Tip: Usar el bloque "numero al azar entre () y ()" de la solapa operadores, para generar el movimiento aleatorio.
+Tip: Usar el bloque "número al azar entre () y ()" de la solapa operadores, para generar el movimiento aleatorio.
 
 Solución: "atrapame.sb2"
