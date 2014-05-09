@@ -24,7 +24,7 @@ En algunos casos es necesario usar el bloque "Esperar (1) segundos" de la solapa
 ##Ejercicios
 
 
-La idea es que se presenten los ejercicios a los alumnos y ellos traten de resolverlos por su cuenta, únicamente interviniendo el profesor en el caso de que se traben.
+La idea es que se presenten los ejercicios a los alumnos y ellos traten de resolverlos por su cuenta, únicamente interviniendo el profesor en el caso de que se traben. Las soluciones son sólo para orientar al profesor y de ninguna manera la única solución posible al ejercicio.
 
 
 
@@ -56,12 +56,25 @@ Solución: "Ayyy.sb2"
 ###Ejercicio "Hola Juan"
 
 
-Hacer que el personaje de scratch nos pregunte el nombre y luego que diga Hola seguido de nuestro nombre.
+Hacer que el personaje de scratch nos pregunte el nombre y luego que diga "Hola" seguido de nuestro nombre.
 
 
 Conceptos introducidos: variable, input del usuario
 
 Solución: "hola Juan.sb2"
+
+
+
+###Ejercicio "Jugar a las escondidas"
+
+
+Hacer que el personaje de scratch cuente hasta 10 y luego diga "Punto y coma el que no se escondió se embroma"
+
+
+
+Concepto introducido: iteración de 10 pasos (for), que el alumno se de cuenta de la ventaja de usar una variable y un ciclo en vez de usar 10 instrucciones
+
+Solución: "jugar a la escondida.sb2"
 
 
 
@@ -77,6 +90,7 @@ Tip: Usar el bloque "numero al azar entre (1) y (10)" de la solapa operadores pa
 Conceptos introducidos: variable, número aleatorio, input del usuario
 
 Solución: "adivinar numero.sb2"
+
 
 
 ###Ejercicio "Atrapame"
