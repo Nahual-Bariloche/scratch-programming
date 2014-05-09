@@ -1,7 +1,7 @@
 scratch-programming
 ===================
 
-Introducción a conceptos básicos de programación (control del flujo y variables) usando ejercicios de [scratch](http://scratch.mit.edu)
+Introducción a conceptos básicos de programación (flujo de control, variables, etc. ) usando ejercicios de [scratch](http://scratch.mit.edu)
 
 ## Introducción:
 
