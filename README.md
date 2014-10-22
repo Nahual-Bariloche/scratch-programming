@@ -11,7 +11,7 @@ Se pueden guardar los programas creados desde: Archivo => Descargar a tu computa
 
 Se pueden subir los programas guardados desde: Archivo => Subir de tu computadora
 
-Los bloques son el equivalente a las instrucciones de código y se encuentran en la parte central de la pantalla, y están agrupados por su tipo (ej: Movimiento, Eventos, Apariencia, etc. ). Para poder armar un programa debemos arrastrar los bloques hacia la parte izquierda de la pantalla.
+Los bloques son el equivalente a las instrucciones de código y se encuentran en la parte central de la pantalla, y están agrupados por su tipo (ej: Movimiento, Eventos, Apariencia, etc. ). Para poder armar un programa debemos arrastrar los bloques hacia el sector derecho de la pantalla.
 
 Los bloques tienen secciones de "encastre", si un bloque puede ir a continuación o "adentro" de otro, entonces sus formas coinciden, de forma similar a un rompecabezas.
 
